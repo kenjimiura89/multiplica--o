@@ -1,0 +1,1 @@
+Calcular área de um terreno.
